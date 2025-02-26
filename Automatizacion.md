@@ -131,4 +131,4 @@ El siguiente diagrama muestra la estructura de la prueba automatizada en el cont
 **10. Conclusiones**
 --------------------
 
-Este documento describe la configuración y ejecución de una prueba automatizada con Selenium en Azure DevOps para validar el flujo de compra en SauceDemo. Se detallan los pasos de la prueba, los resultados esperados y la infraestructura utilizada.
+La dcumentación técnica y funcional de la Prueba con Selenium describe la configuración y ejecución de una prueba automatizada con Selenium en Azure DevOps para validar el flujo de compra en SauceDemo que se trata basicamente de una web gratuita para realizar testing, en la ducumentacion se detallan los pasos de la prueba, los resultados esperados y la infraestructura utilizada.
